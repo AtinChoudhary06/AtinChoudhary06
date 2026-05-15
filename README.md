@@ -100,10 +100,4 @@ Global Institute of Technology, Jaipur · **CGPA: 8.8 / 10**
 
 ---
 
-<div align="center">
 
-*"Turning raw data into decisions that matter."*
-
-⭐ **If you find my projects useful, feel free to star the repos!**
-
-</div>
