@@ -15,7 +15,7 @@
 
 ## About Me
 
-Results-driven Data Analyst and IT undergraduate **(CGPA 8.8/10)** with hands-on expertise in **Python, SQL, Power BI, and Machine Learning**. I build end-to-end analytics pipelines — from data ingestion and EDA to dashboarding and predictive modelling — and integrate Generative AI & LLM APIs where analytically relevant.
+Results-driven Data Analyst and IT undergraduate **(CGPA 8.9/10)** with hands-on expertise in **Python, SQL, Power BI, and Machine Learning**. I build end-to-end analytics pipelines — from data ingestion and EDA to dashboarding and predictive modelling — and integrate Generative AI & LLM APIs where analytically relevant.
 
 > 💼 Actively seeking a **Data Analyst / Business Analyst internship** to deliver measurable business impact.
 
@@ -85,7 +85,7 @@ Comprehensive exploratory data analysis on consumer shopping data to uncover pur
 ## 🎓 Education
 
 **Bachelor of Technology — Information Technology** *(July 2023 – July 2027)*  
-Global Institute of Technology, Jaipur · **CGPA: 8.8 / 10**
+Global Institute of Technology, Jaipur · **CGPA: 8.9 / 10**
 
 ---
 
